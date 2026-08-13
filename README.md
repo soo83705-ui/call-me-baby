@@ -94,10 +94,10 @@
       한일1<br />한일2
     </td>
     <td align="center">
-      <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 5" width="140" /><br />
+      <img src="docs/assets/team/kimsujin.png" alt="팀원 5" width="140" /><br />
       <strong>김수진</strong><br />FE<br />
-      <a href="https://github.com/">@github-id</a><br /><br />
-      한일1<br />한일2
+      <a href="https://github.com/soo83705-ui">@soo83705-ui</a><br /><br />
+      FE 영상통화<br />FE 동물필터 성능 개선 
     </td>
     <td align="center">
       <img src="docs/assets/team/hyunmin.png" alt="팀원 6" width="140" /><br />
