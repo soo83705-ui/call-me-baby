@@ -12,19 +12,32 @@
 
 ## 📌 목차
 
-- [서비스 소개](#-서비스-소개)
-- [기획 배경](#-기획-배경)
-- [프로젝트 개요](#-프로젝트-개요)
-- [팀원 소개](#-팀원-소개)
-- [주요 기능](#-주요-기능)
-- [시연 영상](#-시연-영상)
-- [기술 스택](#-기술-스택)
-- [시스템 아키텍처](#-시스템-아키텍처)
-- [ERD](#-erd)
-- [API 명세](#-api-명세)
-- [핵심 기술 상세](#-핵심-기술-상세)
-- [프로젝트 산출물](#-프로젝트-산출물)
-- [회고](#-회고)
+- [Call Me Baby](#call-me-baby)
+  - [📌 목차](#-목차)
+  - [🍼 서비스 소개](#-서비스-소개)
+  - [💡 기획 배경](#-기획-배경)
+  - [📋 프로젝트 개요](#-프로젝트-개요)
+  - [👥 팀원 소개](#-팀원-소개)
+  - [✨ 주요 기능](#-주요-기능)
+    - [👨‍👩‍👧 부모·아이 실시간 영상통화](#-부모아이-실시간-영상통화)
+    - [💬 AI 대화 주제 추천](#-ai-대화-주제-추천)
+    - [🎨 부모·아이 공동 그림판](#-부모아이-공동-그림판)
+    - [📝 통화 후 AI 일기](#-통화-후-ai-일기)
+    - [👶 아이 프로필 및 관심사 관리](#-아이-프로필-및-관심사-관리)
+    - [🔐 소셜 로그인](#-소셜-로그인)
+  - [🎬 시연 영상](#-시연-영상)
+  - [🛠 기술 스택](#-기술-스택)
+  - [🏗 시스템 아키텍처](#-시스템-아키텍처)
+  - [🗄 ERD](#-erd)
+  - [📡 API 명세](#-api-명세)
+  - [🔬 핵심 기술 상세](#-핵심-기술-상세)
+    - [실시간 통화와 AI 음성 분석 분리](#실시간-통화와-ai-음성-분석-분리)
+    - [LiveKit 기반 공동 그림판](#livekit-기반-공동-그림판)
+    - [실시간 관심사 파이프라인](#실시간-관심사-파이프라인)
+    - [통화 후 비동기 일기 생성](#통화-후-비동기-일기-생성)
+    - [인증 및 연결 보안](#인증-및-연결-보안)
+  - [📚 프로젝트 산출물](#-프로젝트-산출물)
+  - [📝 회고](#-회고)
 
 ## 🍼 서비스 소개
 
@@ -56,41 +69,41 @@
   <tr>
     <td align="center" width="33%">
       <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 1" width="140" /><br />
-      <strong>이름 1</strong><br />BE · AI<br />
-      <a href="https://github.com/">@github-id</a><br /><br />
-      부모·아이 도메인 API<br />인증 및 데이터 모델링
+      <strong>강현지</strong><br />팀장 · AI<br />
+      <a href="https://github.com/">@hyunjeekang</a><br /><br />
+      한일1<br />한일2
     </td>
     <td align="center" width="33%">
       <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 2" width="140" /><br />
-      <strong>이름 2</strong><br />FE · Realtime<br />
+      <strong>이어진</strong><br />BE<br />
       <a href="https://github.com/">@github-id</a><br /><br />
-      통화 화면 및 LiveKit 연동<br />공동 그림판 UI
+      한일1<br />한일2
     </td>
     <td align="center" width="33%">
       <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 3" width="140" /><br />
-      <strong>이름 3</strong><br />FE · AI<br />
+      <strong>임건애</strong><br />Infra<br />
       <a href="https://github.com/">@github-id</a><br /><br />
-      AI 대화 주제 추천 화면<br />아이 화면 및 UX
+      한일1<br />한일2
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 4" width="140" /><br />
-      <strong>이름 4</strong><br />BE<br />
+      <strong>박규연</strong><br />FE<br />
       <a href="https://github.com/">@github-id</a><br /><br />
-      통화방 API 및 실시간 상태<br />일기 도메인
+      한일1<br />한일2
     </td>
     <td align="center">
       <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 5" width="140" /><br />
-      <strong>이름 5</strong><br />AI<br />
+      <strong>김수진</strong><br />FE<br />
       <a href="https://github.com/">@github-id</a><br /><br />
-      VAD·STT 파이프라인<br />관심사 분석 모델
+      한일1<br />한일2
     </td>
     <td align="center">
       <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 6" width="140" /><br />
-      <strong>이름 6</strong><br />Infra · AI<br />
+      <strong>오현민</strong><br />FE<br />
       <a href="https://github.com/">@github-id</a><br /><br />
-      Docker·EC2 배포<br />AI 일기 생성 파이프라인
+      한일1<br />한일2
     </td>
   </tr>
 </table>
