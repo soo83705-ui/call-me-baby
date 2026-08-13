@@ -100,10 +100,10 @@
       한일1<br />한일2
     </td>
     <td align="center">
-      <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 6" width="140" /><br />
+      <img src="docs/assets/team/hyunmin.png" alt="팀원 6" width="140" /><br />
       <strong>오현민</strong><br />FE<br />
       <a href="https://github.com/">@github-id</a><br /><br />
-      한일1<br />한일2
+      WebRTC·MediaPipe 기반 실시간 미디어 기능 구현<br />UI/UX 설계
     </td>
   </tr>
 </table>
