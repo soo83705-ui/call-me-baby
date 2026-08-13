@@ -3,7 +3,7 @@
 > 부모와 아이의 일상을 연결하는 AI 기반 실시간 영상통화 서비스
 
 <p align="center">
-  <img src="docs/assets/logo-placeholder.svg" alt="Call Me Baby" width="280" />
+  <img src="../docs/assets/logo-placeholder.svg" alt="Call Me Baby" width="280" />
 </p>
 
 <p align="center"><strong>아이의 오늘을 듣고, 이해하고, 함께 기록하는 AI 육아 동반자</strong></p>
@@ -55,26 +55,24 @@
 | --- | --- |
 | 프로젝트명 | Call Me Baby |
 | 프로젝트 유형 | AI 기반 부모·아이 실시간 영상통화 서비스 |
-| 개발 기간 | `YYYY.MM.DD ~ YYYY.MM.DD` |
+| 개발 기간 | `2026.07.06 ~ 2026.08.10` |
 | 개발 인원 | 6명 |
 | 플랫폼 | Web Application |
 | 배포 환경 | Vercel, AWS EC2 |
-| 저장소 | [GitHub](https://github.com/hyunjeekang/call-me-baby) |
 
 ## 👥 팀원 소개
 
-> 실제 팀원 사진과 링크를 `docs/assets/team/`에 추가하고 아래 placeholder를 교체해주세요.
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 1" width="140" /><br />
+      <img src="../docs/assets/team/profile-placeholder.svg" alt="팀원 1" width="140" /><br />
       <strong>강현지</strong><br />팀장 · AI<br />
       <a href="https://github.com/">@hyunjeekang</a><br /><br />
       한일1<br />한일2
     </td>
     <td align="center" width="33%">
-      <img src="docs/assets/team/LeeEojin.png" alt="팀원 2" width="140" /><br />
+      <img src="../docs/assets/team/LeeEojin.png" alt="팀원 2" width="140" /><br />
       <strong>이어진</strong><br />BE · AI<br />
       <a href="https://github.com/">@win929</a><br /><br />
       소셜 로그인·JWT 인증 구현<br />LiveKit 통화 세션·Redis TTL 기반 재접속 복구<br />AI 그림일기 품질 평가·프롬프트 개선
@@ -88,19 +86,19 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/assets/team/parkkyuyeon.png.jpg" alt="팀원 4" width="140" /><br />
+      <img src="../docs/assets/team/parkkyuyeon.png.jpg" alt="팀원 4" width="140" /><br />
       <strong>박규연</strong><br />FE<br />
       <a href="https://github.com/">@babagyuya</a><br /><br />
       주요 페이지 UI/UX 구현<br />소셜 로그인 연동
     </td>
     <td align="center">
-      <img src="docs/assets/team/kimsujin.png" alt="팀원 5" width="140" /><br />
+      <img src="../docs/assets/team/kimsujin.png" alt="팀원 5" width="140" /><br />
       <strong>김수진</strong><br />FE<br />
       <a href="https://github.com/soo83705-ui">@soo83705-ui</a><br /><br />
       FE 영상통화<br />FE 동물필터 성능 개선 
     </td>
     <td align="center">
-      <img src="docs/assets/team/hyunmin.png" alt="팀원 6" width="140" /><br />
+      <img src="../docs/assets/team/hyunmin.png" alt="팀원 6" width="140" /><br />
       <strong>오현민</strong><br />FE<br />
       <a href="https://github.com/">@github-id</a><br /><br />
       WebRTC·MediaPipe 기반 실시간 미디어 기능 구현<br />UI/UX 설계
@@ -109,8 +107,6 @@
 </table>
 
 ## ✨ 주요 기능
-
-각 기능을 **기능 설명 → 주요 화면 → 동작 GIF** 순서로 정리했습니다. 실제 화면과 GIF는 추후 `docs/assets/features/`에 추가한 뒤 경로를 교체하면 됩니다.
 
 ### 👨‍👩‍👧 부모·아이 실시간 영상통화
 
@@ -187,7 +183,7 @@
 
 ## 🏗 시스템 아키텍처
 
-![Call Me Baby 시스템 아키텍처](docs/assets/system-architecture.png)
+![Call Me Baby 시스템 아키텍처](../docs/assets/system-architecture.png)
 
 - **Frontend**: React + TypeScript + Vite, Vercel 배포
 - **Application Server**: AWS EC2 Docker Compose 환경의 Caddy, LiveKit, Spring Boot, MySQL, Redis
@@ -198,7 +194,7 @@
 
 ## 🗄 ERD
 
-![Call Me Baby ERD](docs/assets/erd.png)
+![Call Me Baby ERD](../docs/assets/erd.png)
 
 | 도메인 | 주요 테이블 | 설명 |
 | --- | --- | --- |
@@ -210,12 +206,12 @@
 
 ## 📡 API 명세
 
-- [REST API OpenAPI](docs/api/openapi.yaml)
-- [API 안내](docs/api/README.md)
-- [실시간 통신 계약](docs/realtime/REALTIME_CONTRACT.md)
-- [내부 AI API](docs/api/ai-internal-openapi.yaml)
-- [내부 Realtime API](docs/api/realtime-internal-openapi.yaml)
-- [Postman 테스트 문서](docs/postman/README.md)
+- [REST API OpenAPI](../docs/api/openapi.yaml)
+- [API 안내](../docs/api/README.md)
+- [실시간 통신 계약](../docs/realtime/REALTIME_CONTRACT.md)
+- [내부 AI API](../docs/api/ai-internal-openapi.yaml)
+- [내부 Realtime API](../docs/api/realtime-internal-openapi.yaml)
+- [Postman 테스트 문서](../docs/postman/README.md)
 
 | 영역 | 대표 기능 |
 | --- | --- |
@@ -256,10 +252,10 @@ STT 결과에 Kiwi 키워드 추출과 multilingual-e5-small 임베딩을 조합
 | --- | --- |
 | 요구사항 명세서 | `[링크 추가 예정]` |
 | 화면 설계서 | `[링크 추가 예정]` |
-| API 명세서 | [OpenAPI](docs/api/openapi.yaml) |
-| ERD | [이미지](docs/assets/erd.png) |
-| 시스템 아키텍처 | [이미지](docs/assets/system-architecture.png) |
-| 시연 시나리오 | [문서](docs/demo-stt-interest-drawing-scenario.md) |
+| API 명세서 | [OpenAPI](../docs/api/openapi.yaml) |
+| ERD | [이미지](../docs/assets/erd.png) |
+| 시스템 아키텍처 | [이미지](../docs/assets/system-architecture.png) |
+| 시연 시나리오 | [문서](../docs/demo-stt-interest-drawing-scenario.md) |
 
 ## 📝 회고
 
