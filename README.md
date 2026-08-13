@@ -74,7 +74,7 @@
       한일1<br />한일2
     </td>
     <td align="center" width="33%">
-      <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 2" width="140" /><br />
+      <img src="docs/assets/team/LeeEoJin.jpg" alt="팀원 2" width="140" /><br />
       <strong>이어진</strong><br />BE<br />
       <a href="https://github.com/">@github-id</a><br /><br />
       한일1<br />한일2
