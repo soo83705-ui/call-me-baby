@@ -80,10 +80,10 @@
       한일1<br />한일2
     </td>
     <td align="center" width="33%">
-      <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 3" width="140" /><br />
-      <strong>임건애</strong><br />Infra<br />
-      <a href="https://github.com/">@github-id</a><br /><br />
-      한일1<br />한일2
+      <img src="https://github.com/wo-oaw.png" alt="팀원 3" width="140" /><br />
+      <strong>임건애</strong><br />Infra, BE<br />
+      <a href="https://github.com/wo-oaw">@wo-oaw</a><br /><br />
+      CI/CD·배포 인프라<br />통화방·그림일기 API
     </td>
   </tr>
   <tr>
