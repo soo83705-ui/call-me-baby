@@ -75,9 +75,9 @@
     </td>
     <td align="center" width="33%">
       <img src="docs/assets/team/LeeEojin.png" alt="팀원 2" width="140" /><br />
-      <strong>이어진</strong><br />BE<br />
+      <strong>이어진</strong><br />BE · AI<br />
       <a href="https://github.com/">@win929</a><br /><br />
-      한일1<br />한일2
+      소셜 로그인·JWT 인증 구현<br />LiveKit 통화 세션·Redis TTL 기반 재접속 복구<br />AI 그림일기 품질 평가·프롬프트 개선
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/wo-oaw.png" alt="팀원 3" width="140" /><br />
