@@ -88,10 +88,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/assets/team/profile-placeholder.svg" alt="팀원 4" width="140" /><br />
+      <img src="docs/assets/team/parkkyuyeon.png.jpg" alt="팀원 4" width="140" /><br />
       <strong>박규연</strong><br />FE<br />
-      <a href="https://github.com/">@github-id</a><br /><br />
-      한일1<br />한일2
+      <a href="https://github.com/">@babagyuya</a><br /><br />
+      주요 페이지 UI/UX 구현<br />소셜 로그인 연동
     </td>
     <td align="center">
       <img src="docs/assets/team/kimsujin.png" alt="팀원 5" width="140" /><br />
