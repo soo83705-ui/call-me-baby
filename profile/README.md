@@ -82,7 +82,7 @@
       <strong>임건애</strong><br />Infra, BE<br />
       <a href="https://github.com/wo-oaw">@wo-oaw</a><br /><br />
       Jenkins 기반 CI/CD·배포 인프라 구축<br/>
-      통화방·LiveKit·그림일기 API 개발
+      통화방·Redis 상태관리·그림일기 API
     </td>
   </tr>
   <tr>
