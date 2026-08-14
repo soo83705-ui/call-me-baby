@@ -95,7 +95,7 @@
       <img src="../docs/assets/team/kimsujin.png" alt="팀원 5" width="140" /><br />
       <strong>김수진</strong><br />FE<br />
       <a href="https://github.com/soo83705-ui">@soo83705-ui</a><br /><br />
-      FE 영상통화<br />FE 동물필터 성능 개선 
+      FE 영상통화<br />FE 동물필터 성능 개선
     </td>
     <td align="center">
       <img src="../docs/assets/team/hyunmin.png" alt="팀원 6" width="140" /><br />
@@ -174,11 +174,11 @@
 | 분류 | 기술 |
 | --- | --- |
 | **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="Mediapipe" />|
-| **Backend** | <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-4.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" /> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" /> <img src="https://img.shields.io/badge/Spring%20Boot-4.1.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" /> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" /> OAuth2 Client · Resource Server · JWT |
 | **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" /> |
-| **AI** | <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Whisper-STT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" /> <img src="https://img.shields.io/badge/Kiwi-NLP-F5A623?style=for-the-badge" alt="Kiwi" /> <img src="https://img.shields.io/badge/Embeddings-multilingual--e5--small-7B61FF?style=for-the-badge" alt="Embeddings" /> <img src="https://img.shields.io/badge/GMS%20API-gpt--4.1-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GMS API" /> |
+| **AI** | <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/faster--whisper--STT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="faster-whisper" /> <img src="https://img.shields.io/badge/Kiwi-NLP-F5A623?style=for-the-badge" alt="Kiwi" /> <img src="https://img.shields.io/badge/Embeddings-multilingual--e5--small-7B61FF?style=for-the-badge" alt="Embeddings" /> <img src="https://img.shields.io/badge/GMS%20API-gpt--4.1-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GMS API" /> |
 | **Realtime** | <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /> <img src="https://img.shields.io/badge/LiveKit-111111?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" /> |
-| **Infrastructure** | <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/GitLab%20Webhook-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" /> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> |
 | **Storage & Tools** | <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" /> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=swagger&logoColor=white" alt="OpenAPI" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> |
 
 ## 🏗 시스템 아키텍처
@@ -188,9 +188,9 @@
 - **Frontend**: React + TypeScript + Vite, Vercel 배포
 - **Application Server**: AWS EC2 Docker Compose 환경의 Caddy, LiveKit, Spring Boot, MySQL, Redis
 - **Real-time Media**: LiveKit Self-hosted SFU를 통한 WebRTC 전달
-- **STT Server**: GPU 서버의 WebRTC VAD + Whisper 모델
+- **STT Server**: GPU 서버의 LiveKit Agent + WebRTC VAD + faster-whisper 모델
 - **AI Pipeline**: Kiwi + multilingual-e5-small 관심사 분석, GMS API 일기 생성
-- **Object Storage**: Amazon S3 음성·그림 저장
+- **Object Storage**: Amazon S3 그림 저장
 
 ## 🗄 ERD
 
