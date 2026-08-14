@@ -81,7 +81,8 @@
       <img src="https://github.com/wo-oaw.png" alt="팀원 3" width="140" /><br />
       <strong>임건애</strong><br />Infra, BE<br />
       <a href="https://github.com/wo-oaw">@wo-oaw</a><br /><br />
-      CI/CD·배포 인프라<br />통화방·그림일기 API
+      Jenkins 기반 CI/CD·배포 인프라 구축<br/>
+      통화방·LiveKit·그림일기 API 개발
     </td>
   </tr>
   <tr>
